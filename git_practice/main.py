@@ -8,3 +8,4 @@ if __name__ == "__main__":
     print("foo*bar=", lo.multiply(foo, bar))
     print("foo/bar=", lo.divide(foo, bar))
 
+int
